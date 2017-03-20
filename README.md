@@ -26,10 +26,10 @@ $ scrapy crawl <spider-name> -a query="<search-term>" -o output.csv
 
 ### Possible feature enhancements:
 
-- [x] Price comparison from multiple websites
-- [x] Cron script - Price change notifier
-- [x] Integrate proxy switching
-- [x] < Insert-your-ideas-here >
+- [ ] Price comparison from multiple websites
+- [ ] Cron script - Price change notifier
+- [ ] Integrate proxy switching
+- [ ] < Insert-your-ideas-here >
 
 ### Contributing
 
